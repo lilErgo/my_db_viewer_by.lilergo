@@ -56,5 +56,4 @@ btn_menu6 = Button(label_menu_top, text='Шестая кнопка меню',
                    command=lambda: show_menu(6))
 btn_menu6.pack(side=LEFT, fill='x', expand=True, pady=10)
 
-
 root.mainloop()
